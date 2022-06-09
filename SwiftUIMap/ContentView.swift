@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  SwiftUIMap
 //
-//  Created by Berat Yavuz on 8.06.2022.
+//  Created by Berat Yavuz on 7.06.2022.
 //
 
 import SwiftUI
